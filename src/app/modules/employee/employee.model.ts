@@ -3,11 +3,6 @@ import { EmployeeModel, IEmployee } from "./employee.interface";
 
 
 const EmployeeSchema = new mongoose.Schema({
-    id: {
-        type: String,
-        required: true,
-        unique: true
-    },
     firstName: {
         type: String,
         required: true,

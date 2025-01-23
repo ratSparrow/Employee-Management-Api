@@ -2,7 +2,6 @@ import { Model } from "mongoose";
 
 
 export type IEmployee = {
-    id: string;
     firstName:string,
     lastName:string,
     email:string,
