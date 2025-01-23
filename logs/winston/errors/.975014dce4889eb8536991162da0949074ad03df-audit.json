@@ -1,0 +1,60 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\Projects\\One.app\\One.app-Api-V2\\logs\\winston\\errors\\.975014dce4889eb8536991162da0949074ad03df-audit.json",
+    "files": [
+        {
+            "date": 1729209441960,
+            "name": "E:\\Projects\\One.app\\One.app-Api-V2\\logs\\winston\\errors\\phu-2024-18-10-05-error.log",
+            "hash": "5837296e60bd7a56b402338843b6e35c459237c9bf8ab0b21ff22440fc1f7437"
+        },
+        {
+            "date": 1729214414910,
+            "name": "E:\\Projects\\One.app\\One.app-Api-V2\\logs\\winston\\errors\\phu-2024-18-10-07-error.log",
+            "hash": "33b2a982d73c9547a3cbea311516c0f6c3d5ac8aff66597b2cb1893e8fc52eb0"
+        },
+        {
+            "date": 1729252527495,
+            "name": "E:\\Projects\\One.app\\One.app-Api-V2\\logs\\winston\\errors\\phu-2024-18-10-17-error.log",
+            "hash": "9e9ba2a78f24dfb6190af689d051c1a9d1f481d2a7a1343a635896c1f4555d94"
+        },
+        {
+            "date": 1729253273040,
+            "name": "E:\\Projects\\One.app\\One.app-Api-V2\\logs\\winston\\errors\\phu-2024-18-10-18-error.log",
+            "hash": "d6e358a21a058f0d98d436b68ec24a4bd312a609a8fbfc84119980093eaf6310"
+        },
+        {
+            "date": 1729257595206,
+            "name": "E:\\Projects\\One.app\\One.app-Api-V2\\logs\\winston\\errors\\phu-2024-18-10-19-error.log",
+            "hash": "a8c4737468caba73e8fc7b3ba65e8bbfb77c6bac226c10030c30cdbf72c93536"
+        },
+        {
+            "date": 1729260024543,
+            "name": "E:\\Projects\\One.app\\One.app-Api-V2\\logs\\winston\\errors\\phu-2024-18-10-20-error.log",
+            "hash": "539ecedaba35fdadd5869a3fa4daf6a5179073dc857693e98deba97b67baa38c"
+        },
+        {
+            "date": 1729268096901,
+            "name": "E:\\Projects\\One.app\\One.app-Api-V2\\logs\\winston\\errors\\phu-2024-18-10-22-error.log",
+            "hash": "8ffc5898f2d29ab564a5f7dcd0faa7bc15a148129e53987c83763b0dd31fa6b1"
+        },
+        {
+            "date": 1729319713562,
+            "name": "E:\\Projects\\One.app\\One.app-Api-V2\\logs\\winston\\errors\\phu-2024-19-10-12-error.log",
+            "hash": "83f770c7582089f75c8b66de0f7ce97e617dd4d662548b73f16e726d5ccff1b4"
+        },
+        {
+            "date": 1729321554985,
+            "name": "E:\\Projects\\One.app\\One.app-Api-V2\\logs\\winston\\errors\\phu-2024-19-10-13-error.log",
+            "hash": "44459f0443e5c4ec6aebef607a3638da47c8ba77926a7473fa1f48d408554595"
+        },
+        {
+            "date": 1729354503017,
+            "name": "E:\\Projects\\One.app\\One.app-Api-V2\\logs\\winston\\errors\\phu-2024-19-10-22-error.log",
+            "hash": "a88fdc781c9b78be9d4573654a4b8256ae11a92bcb9a4fc0099c83ad3c810d9b"
+        }
+    ],
+    "hashType": "sha256"
+}

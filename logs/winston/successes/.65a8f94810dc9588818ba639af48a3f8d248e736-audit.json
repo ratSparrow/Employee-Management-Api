@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Coding Path\\Task\\Sparrow Forge\\employee-management-api\\logs\\winston\\successes\\.65a8f94810dc9588818ba639af48a3f8d248e736-audit.json",
+    "files": [
+        {
+            "date": 1737662349901,
+            "name": "D:\\Coding Path\\Task\\Sparrow Forge\\employee-management-api\\logs\\winston\\successes\\phu-2025-24-01-01-success.log",
+            "hash": "7afa6ffdd99d2204466db4c9c2c0484a068f6af292a79a5fa3e5c1a91061e056"
+        },
+        {
+            "date": 1737662431761,
+            "name": "D:\\Coding Path\\Task\\Sparrow Forge\\employee-management-api\\logs\\winston\\successes\\phu-2025-24-01-02-success.log",
+            "hash": "4d4e2c5769413ed0151ef3492cd6060e0c51e8b3127c911ff53b8d7b65b1b6dc"
+        }
+    ],
+    "hashType": "sha256"
+}
