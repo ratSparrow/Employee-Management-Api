@@ -10,6 +10,7 @@ Before getting started, ensure you have the following:
 - Node.js (version x.x.x)
 - MongoDB (or another supported database)
 - npm (Node Package Manager)
+- use npm start to run
 
 
 ## Technology Stack
